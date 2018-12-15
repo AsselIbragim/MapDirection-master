@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapDirection</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyCuj2_7X2py04cUawUVR9QW1WGGjAuO_ts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_objects">Выберите объект</string>
+</resources>
